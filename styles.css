@@ -16,16 +16,18 @@ a {
     margin: 10px 10px;
 }
 
-
 .logo {
     font-size: 2rem;
     font-weight: bold;
-    justify-self: flex-start; 
+    margin-right: auto;
 }
 .navbar li {
     list-style: none; 
 }
 
+.settings, .sign-in {
+    font-size: 1.4rem;
+}
 .main-container {
 
 }
