@@ -1,0 +1,49 @@
+body {
+    background-color: #f0d9b5;
+}
+
+/* NAVBAR */
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    height: 100%;
+    align-items: flex-start; 
+}
+
+a {
+    text-decoration: none;
+    color: rgb(151, 92, 47);
+    margin: 10px 10px;
+}
+
+
+.logo {
+    font-size: 2rem;
+    font-weight: bold;
+    justify-self: flex-start; 
+}
+.navbar li {
+    list-style: none; 
+}
+
+.main-container {
+
+}
+
+.title-container {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    align-items: center; 
+}
+.title {
+    color: rgb(151, 92, 47);
+    font-size: 4rem;
+    margin: 5px;
+}
+
+.subheader {
+    color: rgb(83, 42, 11);
+}
+
